@@ -29,3 +29,4 @@ class CreateArtists < ActiveRecord::Migration
       t.string :hometown
     end
   end
+end 
